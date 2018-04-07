@@ -1773,7 +1773,7 @@
     "Rhenium": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Rhenium",
       "fr": null,
       "ru": "Рений",
       "pl": null,
@@ -3843,7 +3843,7 @@
       "es": null,
       "pt":
         "Ingrediente não reconhecido (mostrando o nome como aparece nos registros). Abra um problema do GitHub para que o autor saiba qual é o nome verdadeiro disso!",
-      "de": null,
+      "de": "Unbekannte Zutat",
       "fr": null,
       "ru":
         "Нераспознанный ингредиент (отображается название из логов). Пожалуйста, создайте issue на GitHub, чтобы оповестить разработчика о фактическом названии!",
@@ -3871,7 +3871,7 @@
     "Carrying ": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Tragen",
       "fr": "Capacité",
       "ru": "В наличии ",
       "pl": null,
@@ -4240,7 +4240,7 @@
     "Meta Alloy Hull Reinforcement": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Metalegierung Hüllenverstärkung",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4294,7 +4294,7 @@
     "Concordant Sequence": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Konkordate Sequenz",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4339,7 +4339,7 @@
     "Oversized": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Übergröße",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4366,7 +4366,7 @@
     "Flow Control": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Supraleiter",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4402,7 +4402,7 @@
     "Multi-Servos": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Multiservos",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4645,7 +4645,7 @@
     "@Technology": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "@technologie",
       "fr": null,
       "ru": "@Технология",
       "pl": null,
@@ -4654,7 +4654,7 @@
     "Module": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Modul",
       "fr": null,
       "ru": "Модули",
       "pl": null,
@@ -4663,7 +4663,7 @@
     "Synthesis": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Synthese",
       "fr": null,
       "ru": "Синтез",
       "pl": null,
@@ -4672,7 +4672,7 @@
     "Experimental": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Experimentell",
       "fr": null,
       "ru": "Экспериментальные",
       "pl": null,
@@ -4681,7 +4681,7 @@
     "Technology": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Technologie",
       "fr": null,
       "ru": "Технологии",
       "pl": null,
@@ -4690,7 +4690,7 @@
     "Ancient/Guardian ruins": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Uralte/Guradianruinen,
       "fr": null,
       "ru": "Руины Стражей",
       "pl": null,
@@ -4852,7 +4852,7 @@
     "Deep Charge": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Tiefenlader",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4861,7 +4861,7 @@
     "Mass Manager": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Massenmanager",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4906,7 +4906,7 @@
     "Thargoid": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Thargoid",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -4924,7 +4924,7 @@
     "System:": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "System",
       "fr": null,
       "ru": null,
       "pl": null,
